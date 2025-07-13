@@ -3,11 +3,12 @@
 Proyek ini merupakan tugas kelompok dalam mata kuliah **E-Commerce**, dibangun menggunakan framework **Laravel 11** untuk membangun sistem E-Commerce sederhana 
 
 ## 👥 Anggota Kelompok 6
-- 💻 Herawati Alwi
-- 👩 Nabila Tojabi Lawaru
-- 👩 Adinda Mayli Putri
-- 👩 Yuni Astuti
-- 👨‍💻 Iqfa Maulana
+- 👩‍💻 Herawati Alwi_756
+- 👩 Nabila Tojabi Lawaru_258
+- 👩 Adinda Mayli Putri_049
+- 👩 Yuni Astuti_545
+- 👩 Wiwi Asrina_268
+- 🧓 Iqfa Maulana_078
 
 ---
 
